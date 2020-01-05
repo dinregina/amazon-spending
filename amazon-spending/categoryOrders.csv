@@ -1,0 +1,692 @@
+,Order Date,Category,Item Total,Number Items,xlabel,color,niceDate
+0,2006-03-27,DVD,6.99,1,Mar 06,fuchsia,200603
+1,2006-03-27,Hardcover,32.730000000000004,2,Mar 06,lime,200603
+2,2006-03-27,Paperback,33.06,3,Mar 06,blue,200603
+3,2008-03-05,Paperback,53.93,2,Mar 08,blue,200803
+4,2008-06-30,Hardcover,7.99,1,Jun 08,lime,200806
+5,2008-06-30,Mass Market Paperback,7.99,1,Jun 08,slategrey,200806
+6,2008-06-30,Paperback,51.44,2,Jun 08,blue,200806
+7,2008-12-30,Hardcover,19.77,1,Dec 08,lime,200812
+8,2008-12-30,Paperback,33.36,2,Dec 08,blue,200812
+9,2009-12-15,Video Game,199.99,1,Dec 09,aqua,200912
+10,2011-01-21,Hardcover,21.75,1,Jan 11,lime,201101
+11,2011-01-21,Paperback,21.75,2,Jan 11,blue,201101
+12,2011-02-08,Kitchen,11.99,1,Feb 11,crimson,201102
+13,2011-06-15,Baby Product,31.9,1,Jun 11,darkviolet,201106
+14,2011-06-15,Misc.,13.53,1,Jun 11,darkcyan,201106
+15,2011-06-15,Paperback,31.1,1,Jun 11,blue,201106
+16,2012-03-02,Paperback,39.879999999999995,3,Mar 12,blue,201203
+17,2012-05-31,0,19.92,1,May 12,lightpink,201205
+18,2012-05-31,Paperback,31.05,2,May 12,blue,201205
+19,2013-05-12,Ecard Gift Certificate,25.0,1,May 13,black,201305
+20,2013-06-10,Hardcover,25.71,3,Jun 13,lime,201306
+21,2013-06-10,Paperback,35.64,3,Jun 13,blue,201306
+22,2013-06-12,Paperback,0.8,1,Jun 13,blue,201306
+23,2013-06-24,Accessory,179.0,1,Jun 13,coral,201306
+24,2013-06-24,Personal Computers,81.31,2,Jun 13,lightskyblue,201306
+25,2013-09-17,0,88.65,1,Sep 13,lightpink,201309
+26,2013-10-15,0,31.13,1,Oct 13,lightpink,201310
+27,2013-10-17,Toy,40.04,1,Oct 13,yellow,201310
+28,2013-10-21,Misc.,9.96,1,Oct 13,darkcyan,201310
+29,2013-10-24,Personal Computers,146.13,1,Oct 13,lightskyblue,201310
+30,2013-10-24,Tools & Home Improvement,14.49,1,Oct 13,tan,201310
+31,2013-11-15,Health and Beauty,12.95,1,Nov 13,olive,201311
+32,2013-11-23,0,109.94,2,Nov 13,lightpink,201311
+33,2013-12-01,0,9.99,1,Dec 13,lightpink,201312
+34,2013-12-01,Apparel,10.81,1,Dec 13,mediumspringgreen,201312
+35,2013-12-01,Board book,11.5,1,Dec 13,deepskyblue,201312
+36,2013-12-01,Misc.,8.47,2,Dec 13,darkcyan,201312
+37,2013-12-01,Toy,104.0,8,Dec 13,yellow,201312
+38,2013-12-01,Unknown Binding,9.96,1,Dec 13,dimgrey,201312
+39,2013-12-05,Toy,8.98,1,Dec 13,yellow,201312
+40,2013-12-08,0,35.3,1,Dec 13,lightpink,201312
+41,2013-12-08,Video Game,16.19,1,Dec 13,aqua,201312
+42,2013-12-16,Kitchen,37.99,1,Dec 13,crimson,201312
+43,2013-12-16,Toy,50.07,3,Dec 13,yellow,201312
+44,2013-12-21,DVD,7.03,1,Dec 13,fuchsia,201312
+45,2013-12-21,Kitchen,8.92,1,Dec 13,crimson,201312
+46,2013-12-21,Personal Computers,63.82000000000001,2,Dec 13,lightskyblue,201312
+47,2013-12-21,Toy,87.54,4,Dec 13,yellow,201312
+48,2013-12-21,Video Game,15.23,1,Dec 13,aqua,201312
+49,2013-12-22,Electronics,24.99,1,Dec 13,gold,201312
+50,2013-12-22,Video Game,33.8,1,Dec 13,aqua,201312
+51,2014-01-14,Paperback,10.59,1,Jan 14,blue,201401
+52,2014-01-16,Health and Beauty,13.07,1,Jan 14,olive,201401
+53,2014-01-22,Kitchen,19.5,1,Jan 14,crimson,201401
+54,2014-01-29,Health and Beauty,63.150000000000006,2,Jan 14,olive,201401
+55,2014-01-30,0,18.95,1,Jan 14,lightpink,201401
+56,2014-01-30,Toy,45.029999999999994,2,Jan 14,yellow,201401
+57,2014-02-06,Toy,18.77,1,Feb 14,yellow,201402
+58,2014-02-16,Ecard Gift Certificate,20.0,1,Feb 14,black,201402
+59,2014-02-17,Ecard Gift Certificate,25.0,1,Feb 14,black,201402
+60,2014-02-22,0,8.39,1,Feb 14,lightpink,201402
+61,2014-02-26,Hardcover,15.75,1,Feb 14,lime,201402
+62,2014-03-14,Health and Beauty,36.0,1,Mar 14,olive,201403
+63,2014-03-19,Personal Computers,12.85,1,Mar 14,lightskyblue,201403
+64,2014-04-01,Hardcover,9.77,1,Apr 14,lime,201404
+65,2014-04-05,Kitchen,107.56,3,Apr 14,crimson,201404
+66,2014-04-09,0,5.38,1,Apr 14,lightpink,201404
+67,2014-04-09,Health and Beauty,9.54,1,Apr 14,olive,201404
+68,2014-04-09,Office Product,7.9399999999999995,2,Apr 14,tomato,201404
+69,2014-04-09,Toy,30.580000000000002,4,Apr 14,yellow,201404
+70,2014-04-14,Toy,28.950000000000003,3,Apr 14,yellow,201404
+71,2014-05-08,0,19.99,1,May 14,lightpink,201405
+72,2014-05-10,0,29.95,1,May 14,lightpink,201405
+73,2014-05-10,Health and Beauty,16.24,1,May 14,olive,201405
+74,2014-05-10,Shoes,21.22,1,May 14,mediumorchid,201405
+75,2014-05-11,Ecard Gift Certificate,200.0,1,May 14,black,201405
+76,2014-05-13,Blu-ray,12.98,1,May 14,deeppink,201405
+77,2014-05-13,Hardcover,16.37,1,May 14,lime,201405
+78,2014-05-13,Paperback,47.41,5,May 14,blue,201405
+79,2014-05-22,Misc.,26.58,2,May 14,darkcyan,201405
+80,2014-05-23,Health and Beauty,21.05,1,May 14,olive,201405
+81,2014-05-23,Toy,100.02,3,May 14,yellow,201405
+82,2014-05-29,0,13.99,1,May 14,lightpink,201405
+83,2014-05-29,Apparel,36.79,1,May 14,mediumspringgreen,201405
+84,2014-05-31,Tools & Home Improvement,44.65,1,May 14,tan,201405
+85,2014-06-03,Health and Beauty,28.27,2,Jun 14,olive,201406
+86,2014-06-07,Blu-ray,19.43,2,Jun 14,deeppink,201406
+87,2014-06-07,Electronics,161.97,2,Jun 14,gold,201406
+88,2014-06-08,DVD,268.1,1,Jun 14,fuchsia,201406
+89,2014-06-11,Personal Computers,208.31,3,Jun 14,lightskyblue,201406
+90,2014-06-26,0,17.96,1,Jun 14,lightpink,201406
+91,2014-06-26,Health and Beauty,94.38,7,Jun 14,olive,201406
+92,2014-06-26,Paperback,19.18,2,Jun 14,blue,201406
+93,2014-06-26,Toy,25.39,3,Jun 14,yellow,201406
+94,2014-07-02,0,19.99,1,Jul 14,lightpink,201407
+95,2014-07-02,Toy,19.84,1,Jul 14,yellow,201407
+96,2014-07-09,0,13.14,2,Jul 14,lightpink,201407
+97,2014-07-09,Health and Beauty,6.48,1,Jul 14,olive,201407
+98,2014-07-12,0,10.52,1,Jul 14,lightpink,201407
+99,2014-07-12,Apparel,16.24,1,Jul 14,mediumspringgreen,201407
+100,2014-07-12,Kitchen,9.44,1,Jul 14,crimson,201407
+101,2014-07-13,Health and Beauty,46.4,1,Jul 14,olive,201407
+102,2014-07-20,Apparel,128.05,1,Jul 14,mediumspringgreen,201407
+103,2014-07-20,Toy,12.7,1,Jul 14,yellow,201407
+104,2014-07-30,Kitchen,189.99,1,Jul 14,crimson,201407
+105,2014-07-31,Kitchen,19.95,1,Jul 14,crimson,201407
+106,2014-08-02,Accessory,58.96,1,Aug 14,coral,201408
+107,2014-08-07,Hardcover,6.5,1,Aug 14,lime,201408
+108,2014-08-09,Shoes,19.09,1,Aug 14,mediumorchid,201408
+109,2014-08-12,Health and Beauty,35.25,2,Aug 14,olive,201408
+110,2014-08-21,0,20.0,1,Aug 14,lightpink,201408
+111,2014-08-21,Health and Beauty,8.5,1,Aug 14,olive,201408
+112,2014-08-21,Toy,78.25,4,Aug 14,yellow,201408
+113,2014-09-06,0,22.11,2,Sep 14,lightpink,201409
+114,2014-09-06,Apparel,32.26,1,Sep 14,mediumspringgreen,201409
+115,2014-09-06,Paperback,26.869999999999997,2,Sep 14,blue,201409
+116,2014-09-07,0,6.93,1,Sep 14,lightpink,201409
+117,2014-09-07,Apparel,175.6,4,Sep 14,mediumspringgreen,201409
+118,2014-09-07,Paperback,13.95,1,Sep 14,blue,201409
+119,2014-09-07,Toy,135.97,6,Sep 14,yellow,201409
+120,2014-09-08,Toy,16.68,1,Sep 14,yellow,201409
+121,2014-09-09,Baby Product,214.49,1,Sep 14,darkviolet,201409
+122,2014-09-11,Tools & Home Improvement,120.1,1,Sep 14,tan,201409
+123,2014-09-12,Kitchen,14.0,1,Sep 14,crimson,201409
+124,2014-09-16,Health and Beauty,30.94,1,Sep 14,olive,201409
+125,2014-09-17,Baby Product,31.04,1,Sep 14,darkviolet,201409
+126,2014-09-17,Grocery,122.31,3,Sep 14,midnightblue,201409
+127,2014-09-17,Health and Beauty,15.1,1,Sep 14,olive,201409
+128,2014-09-17,Toy,13.2,2,Sep 14,yellow,201409
+129,2014-09-22,Paperback,26.590000000000003,2,Sep 14,blue,201409
+130,2014-09-28,0,23.64,2,Sep 14,lightpink,201409
+131,2014-10-02,Kitchen,6.48,1,Oct 14,crimson,201410
+132,2014-10-03,0,28.979999999999997,2,Oct 14,lightpink,201410
+133,2014-10-03,Tools & Home Improvement,222.70999999999998,2,Oct 14,tan,201410
+134,2014-10-04,Health and Beauty,12.95,1,Oct 14,olive,201410
+135,2014-10-06,0,34.5,1,Oct 14,lightpink,201410
+136,2014-10-06,Kitchen,19.44,1,Oct 14,crimson,201410
+137,2014-10-06,Misc.,6.48,1,Oct 14,darkcyan,201410
+138,2014-10-07,Paperback,7.34,1,Oct 14,blue,201410
+139,2014-10-08,0,34.98,1,Oct 14,lightpink,201410
+140,2014-10-08,Grocery,105.03,3,Oct 14,midnightblue,201410
+141,2014-10-08,Health and Beauty,14.899999999999999,2,Oct 14,olive,201410
+142,2014-10-09,Paperback,26.94,1,Oct 14,blue,201410
+143,2014-10-12,Apparel,14.72,1,Oct 14,mediumspringgreen,201410
+144,2014-10-12,Paperback,38.06999999999999,3,Oct 14,blue,201410
+145,2014-10-12,Toy,23.25,1,Oct 14,yellow,201410
+146,2014-10-21,DVD,30.14,2,Oct 14,fuchsia,201410
+147,2014-10-21,Tools & Home Improvement,215.42,1,Oct 14,tan,201410
+148,2014-10-22,Toy,158.03,1,Oct 14,yellow,201410
+149,2014-10-28,0,35.91,1,Oct 14,lightpink,201410
+150,2014-10-28,Office Product,19.99,1,Oct 14,tomato,201410
+151,2014-10-28,Toy,11.59,1,Oct 14,yellow,201410
+152,2014-11-03,Kitchen,115.28999999999999,3,Nov 14,crimson,201411
+153,2014-11-03,Paperback,34.76,3,Nov 14,blue,201411
+154,2014-11-13,Health and Beauty,7.19,1,Nov 14,olive,201411
+155,2014-11-13,Paperback,56.09,2,Nov 14,blue,201411
+156,2014-11-24,Hardcover,21.54,1,Nov 14,lime,201411
+157,2014-11-25,Paperback,17.650000000000002,3,Nov 14,blue,201411
+158,2014-11-28,0,11.99,1,Nov 14,lightpink,201411
+159,2014-11-28,Misc.,13.98,1,Nov 14,darkcyan,201411
+160,2014-11-30,Paperback,10.37,1,Nov 14,blue,201411
+161,2014-12-02,Electronics,15.31,1,Dec 14,gold,201412
+162,2014-12-02,Lawn & Patio,49.33,1,Dec 14,darkseagreen,201412
+163,2014-12-02,Toy,14.85,1,Dec 14,yellow,201412
+164,2014-12-02,Video Game,21.64,1,Dec 14,aqua,201412
+165,2014-12-04,Print Magazine,5.0,1,Dec 14,springgreen,201412
+166,2014-12-06,Calendar,7.71,1,Dec 14,darkorange,201412
+167,2014-12-06,Diary,14.71,2,Dec 14,khaki,201412
+168,2014-12-06,Paperback,56.45,4,Dec 14,blue,201412
+169,2014-12-06,Print Magazine,89.97,3,Dec 14,springgreen,201412
+170,2014-12-10,Paperback,11.7,1,Dec 14,blue,201412
+171,2015-01-01,Unknown Binding,4.83,1,Jan 15,dimgrey,201501
+172,2015-01-08,Shoes,37.83,1,Jan 15,mediumorchid,201501
+173,2015-01-11,Single Issue Magazine,9.95,1,Jan 15,gainsboro,201501
+174,2015-01-11,Unknown Binding,5.39,1,Jan 15,dimgrey,201501
+175,2015-01-13,Blu-ray,9.87,1,Jan 15,deeppink,201501
+176,2015-01-13,Hardcover,24.54,1,Jan 15,lime,201501
+177,2015-01-13,Pamphlet,5.49,1,Jan 15,rosybrown,201501
+178,2015-01-13,Paperback,88.37,4,Jan 15,blue,201501
+179,2015-01-13,Tools & Home Improvement,20.99,1,Jan 15,tan,201501
+180,2015-01-17,Paperback,25.48,2,Jan 15,blue,201501
+181,2015-02-08,0,35.21,2,Feb 15,lightpink,201502
+182,2015-02-08,Apparel,15.59,1,Feb 15,mediumspringgreen,201502
+183,2015-02-14,Single Issue Magazine,10.99,1,Feb 15,gainsboro,201502
+184,2015-02-22,0,5.5,1,Feb 15,lightpink,201502
+185,2015-02-24,Single Issue Magazine,7.3,1,Feb 15,gainsboro,201502
+186,2015-02-27,0,16.0,1,Feb 15,lightpink,201502
+187,2015-02-27,Baby Product,16.0,1,Feb 15,darkviolet,201502
+188,2015-02-27,Single Issue Magazine,9.24,2,Feb 15,gainsboro,201502
+189,2015-03-02,0,22.0,4,Mar 15,lightpink,201503
+190,2015-03-10,0,52.0,3,Mar 15,lightpink,201503
+191,2015-03-13,Misc.,31.9,2,Mar 15,darkcyan,201503
+192,2015-03-20,0,46.940000000000005,2,Mar 15,lightpink,201503
+193,2015-03-20,Grocery,34.4,2,Mar 15,midnightblue,201503
+194,2015-03-20,Health and Beauty,12.76,1,Mar 15,olive,201503
+195,2015-03-20,Kitchen,4.49,1,Mar 15,crimson,201503
+196,2015-03-20,Misc.,11.94,2,Mar 15,darkcyan,201503
+197,2015-03-20,Office Product,10.84,2,Mar 15,tomato,201503
+198,2015-03-26,Paperback,53.98,1,Mar 15,blue,201503
+199,2015-03-31,Accessory,12.99,1,Mar 15,coral,201503
+200,2015-03-31,Hardcover,7.84,1,Mar 15,lime,201503
+201,2015-03-31,Kitchen,14.06,1,Mar 15,crimson,201503
+202,2015-03-31,Paperback,3.19,1,Mar 15,blue,201503
+203,2015-03-31,Wireless Phone Accessory,9.95,1,Mar 15,darkgreen,201503
+204,2015-05-21,Hardcover,0.01,1,May 15,lime,201505
+205,2015-05-21,Paperback,50.04,2,May 15,blue,201505
+206,2015-05-25,0,16.5,3,May 15,lightpink,201505
+207,2015-05-25,Apparel,5.5,1,May 15,mediumspringgreen,201505
+208,2015-06-05,0,11.0,2,Jun 15,lightpink,201506
+209,2015-06-05,Apparel,5.5,1,Jun 15,mediumspringgreen,201506
+210,2015-06-22,0,12.99,1,Jun 15,lightpink,201506
+211,2015-06-22,Single Issue Magazine,6.99,1,Jun 15,gainsboro,201506
+212,2015-07-01,0,8.95,1,Jul 15,lightpink,201507
+213,2015-07-06,Hardcover,6.15,1,Jul 15,lime,201507
+214,2015-07-06,Paperback,5.98,1,Jul 15,blue,201507
+215,2015-08-03,0,27.43,1,Aug 15,lightpink,201508
+216,2015-08-04,Electronics,24.99,1,Aug 15,gold,201508
+217,2015-08-07,Hardcover,12.98,1,Aug 15,lime,201508
+218,2015-08-07,Office Product,7.36,1,Aug 15,tomato,201508
+219,2015-08-15,Baby Product,270.61,1,Aug 15,darkviolet,201508
+220,2015-08-25,Kitchen,14.99,1,Aug 15,crimson,201508
+221,2015-09-03,Blu-ray,9.95,2,Sep 15,deeppink,201509
+222,2015-09-21,Kitchen,5.4,1,Sep 15,crimson,201509
+223,2015-09-21,Personal Computers,42.830000000000005,2,Sep 15,lightskyblue,201509
+224,2015-09-21,Tools & Home Improvement,65.41,2,Sep 15,tan,201509
+225,2015-10-09,0,37.25,1,Oct 15,lightpink,201510
+226,2015-10-09,Automotive,22.49,1,Oct 15,mediumvioletred,201510
+227,2015-10-09,Blu-ray,15.209999999999999,2,Oct 15,deeppink,201510
+228,2015-10-09,DVD,10.77,1,Oct 15,fuchsia,201510
+229,2015-10-09,Health and Beauty,19.34,1,Oct 15,olive,201510
+230,2015-10-09,Paperback,9.809999999999999,2,Oct 15,blue,201510
+231,2015-10-13,Blu-ray,17.560000000000002,2,Oct 15,deeppink,201510
+232,2015-10-18,Blu-ray,19.439999999999998,2,Oct 15,deeppink,201510
+233,2015-10-18,Wireless Phone Accessory,47.5,1,Oct 15,darkgreen,201510
+234,2015-10-19,Electronics,4.63,1,Oct 15,gold,201510
+235,2015-10-19,Health and Beauty,16.81,1,Oct 15,olive,201510
+236,2015-11-02,0,48.94,2,Nov 15,lightpink,201511
+237,2015-11-03,Health and Beauty,76.96,4,Nov 15,olive,201511
+238,2015-11-05,0,14.95,1,Nov 15,lightpink,201511
+239,2015-11-05,Health and Beauty,9.99,1,Nov 15,olive,201511
+240,2015-11-16,Paperback,8.36,1,Nov 15,blue,201511
+241,2015-11-30,0,26.68,1,Nov 15,lightpink,201511
+242,2015-11-30,Accessory,10.71,1,Nov 15,coral,201511
+243,2015-11-30,Jewelry,45.98,2,Nov 15,paleturquoise,201511
+244,2015-11-30,Toy,551.8900000000001,18,Nov 15,yellow,201511
+245,2015-12-09,Apparel,30.58,2,Dec 15,mediumspringgreen,201512
+246,2015-12-22,Accessory,32.99,1,Dec 15,coral,201512
+247,2015-12-22,Apparel,99.99,1,Dec 15,mediumspringgreen,201512
+248,2015-12-22,Electronics,80.97999999999999,3,Dec 15,gold,201512
+249,2015-12-22,Kitchen,22.99,1,Dec 15,crimson,201512
+250,2015-12-22,Wireless Phone Accessory,88.67,2,Dec 15,darkgreen,201512
+251,2016-03-21,Paperback,19.83,2,Mar 16,blue,201603
+252,2016-03-28,0,9.87,1,Mar 16,lightpink,201603
+253,2016-03-28,Electronics,6.95,1,Mar 16,gold,201603
+254,2016-03-28,Health and Beauty,9.99,1,Mar 16,olive,201603
+255,2016-03-28,Wireless Phone Accessory,39.9,2,Mar 16,darkgreen,201603
+256,2016-03-29,Blu-ray,21.64,1,Mar 16,deeppink,201603
+257,2016-03-29,Paperback,8.49,1,Mar 16,blue,201603
+258,2016-04-07,Paperback,35.07,3,Apr 16,blue,201604
+259,2016-04-15,0,10.25,1,Apr 16,lightpink,201604
+260,2016-04-15,Paperback,9.92,1,Apr 16,blue,201604
+261,2016-04-30,Wireless Phone Accessory,27.98,2,Apr 16,darkgreen,201604
+262,2016-07-12,CD-ROM,52.46,1,Jul 16,darkslateblue,201607
+263,2016-07-12,Personal Computers,24.99,1,Jul 16,lightskyblue,201607
+264,2016-07-30,Tools & Home Improvement,32.95,1,Jul 16,tan,201607
+265,2016-08-10,Apparel,17.98,1,Aug 16,mediumspringgreen,201608
+266,2016-08-10,Electronics,12.36,1,Aug 16,gold,201608
+267,2016-08-10,Health and Beauty,10.89,1,Aug 16,olive,201608
+268,2016-08-15,Paperback,17.05,2,Aug 16,blue,201608
+269,2016-08-15,Spiral-bound,11.9,1,Aug 16,lavender,201608
+270,2016-08-17,Accessory,48.7,1,Aug 16,coral,201608
+271,2016-08-25,Sports,11.36,1,Aug 16,hotpink,201608
+272,2016-08-26,Paperback,13.85,1,Aug 16,blue,201608
+273,2016-09-13,Video Game,18.39,1,Sep 16,aqua,201609
+274,2016-11-16,Paperback,19.52,2,Nov 16,blue,201611
+275,2016-11-28,Tools & Home Improvement,9.63,1,Nov 16,tan,201611
+276,2016-12-07,0,29.45,1,Dec 16,lightpink,201612
+277,2016-12-07,Apparel,27.9,1,Dec 16,mediumspringgreen,201612
+278,2016-12-07,Toy,231.73,9,Dec 16,yellow,201612
+279,2016-12-17,0,6.99,1,Dec 16,lightpink,201612
+280,2016-12-21,Video Game,19.27,1,Dec 16,aqua,201612
+281,2016-12-21,Wireless Phone Accessory,19.95,1,Dec 16,darkgreen,201612
+282,2017-01-02,0,35.87,2,Jan 17,lightpink,201701
+283,2017-01-03,Shoes,79.95,1,Jan 17,mediumorchid,201701
+284,2017-01-04,Apparel,43.28,1,Jan 17,mediumspringgreen,201701
+285,2017-01-06,Health and Beauty,23.75,2,Jan 17,olive,201701
+286,2017-01-16,Grocery,18.75,1,Jan 17,midnightblue,201701
+287,2017-01-16,Health and Beauty,25.0,1,Jan 17,olive,201701
+288,2017-01-30,Office Product,12.99,1,Jan 17,tomato,201701
+289,2017-02-09,0,15.97,1,Feb 17,lightpink,201702
+290,2017-02-09,Health and Beauty,14.89,1,Feb 17,olive,201702
+291,2017-02-12,Grocery,19.43,1,Feb 17,midnightblue,201702
+292,2017-02-21,Accessory,8.49,1,Feb 17,coral,201702
+293,2017-02-21,Electronics,23.95,1,Feb 17,gold,201702
+294,2017-02-21,Health and Beauty,39.980000000000004,2,Feb 17,olive,201702
+295,2017-02-21,Paperback,16.49,1,Feb 17,blue,201702
+296,2017-02-21,Personal Computers,48.57,1,Feb 17,lightskyblue,201702
+297,2017-02-21,Wireless Phone Accessory,12.99,1,Feb 17,darkgreen,201702
+298,2017-02-26,Health and Beauty,14.82,1,Feb 17,olive,201702
+299,2017-02-28,Health and Beauty,15.95,1,Feb 17,olive,201702
+300,2017-02-28,Kitchen,13.129999999999999,2,Feb 17,crimson,201702
+301,2017-03-29,0,8.2,1,Mar 17,lightpink,201703
+302,2017-03-29,Health and Beauty,41.17,2,Mar 17,olive,201703
+303,2017-03-29,Kitchen,23.759999999999998,2,Mar 17,crimson,201703
+304,2017-03-29,Personal Computers,35.5,2,Mar 17,lightskyblue,201703
+305,2017-04-04,0,24.45,1,Apr 17,lightpink,201704
+306,2017-04-05,Health and Beauty,14.95,1,Apr 17,olive,201704
+307,2017-04-08,Card Book,10.24,1,Apr 17,moccasin,201704
+308,2017-04-20,0,36.97,2,Apr 17,lightpink,201704
+309,2017-04-20,Health and Beauty,25.0,1,Apr 17,olive,201704
+310,2017-04-27,Grocery,13.33,1,Apr 17,midnightblue,201704
+311,2017-04-27,Hardcover,19.05,1,Apr 17,lime,201704
+312,2017-04-27,Paperback,16.18,1,Apr 17,blue,201704
+313,2017-04-27,Personal Computers,27.06,1,Apr 17,lightskyblue,201704
+314,2017-04-28,Paperback,13.25,1,Apr 17,blue,201704
+315,2017-05-03,Health and Beauty,26.42,1,May 17,olive,201705
+316,2017-05-03,Paperback,36.82,3,May 17,blue,201705
+317,2017-05-07,Health and Beauty,16.95,1,May 17,olive,201705
+318,2017-05-07,Personal Computers,6.4,1,May 17,lightskyblue,201705
+319,2017-05-08,Health and Beauty,21.99,1,May 17,olive,201705
+320,2017-05-10,Electronics,6.99,1,May 17,gold,201705
+321,2017-05-10,Office Product,9.43,1,May 17,tomato,201705
+322,2017-05-15,Accessory,21.18,1,May 17,coral,201705
+323,2017-05-22,0,16.49,1,May 17,lightpink,201705
+324,2017-05-22,Health and Beauty,53.56,3,May 17,olive,201705
+325,2017-05-30,0,26.23,1,May 17,lightpink,201705
+326,2017-05-30,Health and Beauty,58.14,2,May 17,olive,201705
+327,2017-06-01,Health and Beauty,41.84,2,Jun 17,olive,201706
+328,2017-06-14,Misc.,10.99,1,Jun 17,darkcyan,201706
+329,2017-06-15,Health and Beauty,24.99,1,Jun 17,olive,201706
+330,2017-06-15,Paperback,94.42,3,Jun 17,blue,201706
+331,2017-06-16,Health and Beauty,7.49,1,Jun 17,olive,201706
+332,2017-06-16,Misc.,16.45,1,Jun 17,darkcyan,201706
+333,2017-06-16,Sports,12.95,1,Jun 17,hotpink,201706
+334,2017-06-26,Health and Beauty,15.95,1,Jun 17,olive,201706
+335,2017-06-29,Health and Beauty,26.59,1,Jun 17,olive,201706
+336,2017-07-07,Health and Beauty,36.4,3,Jul 17,olive,201707
+337,2017-07-11,0,16.99,1,Jul 17,lightpink,201707
+338,2017-07-11,Hardcover,2.0,1,Jul 17,lime,201707
+339,2017-07-11,Health and Beauty,7.99,1,Jul 17,olive,201707
+340,2017-07-11,Kitchen,8.41,1,Jul 17,crimson,201707
+341,2017-07-11,Misc.,35.09,1,Jul 17,darkcyan,201707
+342,2017-07-11,Personal Computers,309.28,2,Jul 17,lightskyblue,201707
+343,2017-07-11,Video Game,32.05,1,Jul 17,aqua,201707
+344,2017-07-14,Accessory,12.19,1,Jul 17,coral,201707
+345,2017-07-14,Wireless Phone Accessory,6.95,1,Jul 17,darkgreen,201707
+346,2017-07-17,Electronics,49.99,1,Jul 17,gold,201707
+347,2017-07-17,Health and Beauty,29.97,1,Jul 17,olive,201707
+348,2017-07-26,Health and Beauty,14.95,1,Jul 17,olive,201707
+349,2017-07-30,Health and Beauty,26.59,1,Jul 17,olive,201707
+350,2017-08-08,0,11.99,1,Aug 17,lightpink,201708
+351,2017-08-09,0,12.99,1,Aug 17,lightpink,201708
+352,2017-08-22,0,99.99,1,Aug 17,lightpink,201708
+353,2017-08-22,Personal Computers,162.36,1,Aug 17,lightskyblue,201708
+354,2017-08-25,0,40.97,2,Aug 17,lightpink,201708
+355,2017-08-25,Apparel,25.97,2,Aug 17,mediumspringgreen,201708
+356,2017-08-25,Kitchen,9.02,1,Aug 17,crimson,201708
+357,2017-08-30,Health and Beauty,26.59,1,Aug 17,olive,201708
+358,2017-09-01,Health and Beauty,15.95,1,Sep 17,olive,201709
+359,2017-09-01,Kitchen,8.61,1,Sep 17,crimson,201709
+360,2017-09-12,0,27.99,1,Sep 17,lightpink,201709
+361,2017-09-25,Kitchen,14.95,1,Sep 17,crimson,201709
+362,2017-09-25,Office Product,17.28,1,Sep 17,tomato,201709
+363,2017-09-29,Health and Beauty,26.59,1,Sep 17,olive,201709
+364,2017-10-02,0,61.870000000000005,3,Oct 17,lightpink,201710
+365,2017-10-02,Kitchen,6.8,1,Oct 17,crimson,201710
+366,2017-10-03,Paperback,13.05,1,Oct 17,blue,201710
+367,2017-10-10,Home,11.99,1,Oct 17,maroon,201710
+368,2017-10-18,0,14.99,1,Oct 17,lightpink,201710
+369,2017-10-18,Kitchen,34.63,3,Oct 17,crimson,201710
+370,2017-10-21,0,6.99,1,Oct 17,lightpink,201710
+371,2017-10-21,Apparel,101.37,7,Oct 17,mediumspringgreen,201710
+372,2017-10-21,Misc.,42.88,3,Oct 17,darkcyan,201710
+373,2017-10-21,Toy,8.95,1,Oct 17,yellow,201710
+374,2017-10-26,Hardcover,8.96,1,Oct 17,lime,201710
+375,2017-10-26,Paperback,16.41,2,Oct 17,blue,201710
+376,2017-10-29,0,7.91,1,Oct 17,lightpink,201710
+377,2017-10-30,Health and Beauty,26.59,1,Oct 17,olive,201710
+378,2017-11-02,Kitchen,81.09,1,Nov 17,crimson,201711
+379,2017-11-03,Kitchen,24.99,1,Nov 17,crimson,201711
+380,2017-11-04,0,3.0,1,Nov 17,lightpink,201711
+381,2017-11-05,Ecard Gift Certificate,30.0,2,Nov 17,black,201711
+382,2017-11-12,0,2.79,1,Nov 17,lightpink,201711
+383,2017-11-12,Health and Beauty,24.22,2,Nov 17,olive,201711
+384,2017-11-12,Misc.,19.98,2,Nov 17,darkcyan,201711
+385,2017-11-12,Wireless Phone Accessory,10.45,1,Nov 17,darkgreen,201711
+386,2017-11-13,0,9.99,1,Nov 17,lightpink,201711
+387,2017-11-13,Health and Beauty,5.99,1,Nov 17,olive,201711
+388,2017-11-13,Wireless Phone Accessory,24.54,2,Nov 17,darkgreen,201711
+389,2017-11-15,Misc.,29.95,1,Nov 17,darkcyan,201711
+390,2017-11-23,0,31.939999999999998,2,Nov 17,lightpink,201711
+391,2017-11-23,Kitchen,20.0,1,Nov 17,crimson,201711
+392,2017-11-23,Office Product,7.99,1,Nov 17,tomato,201711
+393,2017-11-23,Toy,8.46,1,Nov 17,yellow,201711
+394,2017-11-25,Tools & Home Improvement,10.34,1,Nov 17,tan,201711
+395,2017-11-29,Health and Beauty,23.87,1,Nov 17,olive,201711
+396,2017-11-29,Kitchen,10.0,1,Nov 17,crimson,201711
+397,2017-11-29,Misc.,136.0,1,Nov 17,darkcyan,201711
+398,2017-11-29,Tools & Home Improvement,69.27000000000001,2,Nov 17,tan,201711
+399,2017-11-29,Toy,29.0,1,Nov 17,yellow,201711
+400,2017-12-01,Health and Beauty,42.97,3,Dec 17,olive,201712
+401,2017-12-01,Misc.,39.9,1,Dec 17,darkcyan,201712
+402,2017-12-01,Office Product,5.51,1,Dec 17,tomato,201712
+403,2017-12-02,Apparel,39.98,1,Dec 17,mediumspringgreen,201712
+404,2017-12-02,Misc.,0.0,1,Dec 17,darkcyan,201712
+405,2017-12-07,Health and Beauty,10.98,1,Dec 17,olive,201712
+406,2017-12-07,Office Product,5.53,1,Dec 17,tomato,201712
+407,2017-12-10,Wireless Phone Accessory,7.99,1,Dec 17,darkgreen,201712
+408,2017-12-11,Office Product,0.0,1,Dec 17,tomato,201712
+409,2017-12-13,0,12.99,1,Dec 17,lightpink,201712
+410,2017-12-13,Sports,32.33,1,Dec 17,hotpink,201712
+411,2017-12-17,Health and Beauty,6.99,1,Dec 17,olive,201712
+412,2017-12-17,Toy,9.99,1,Dec 17,yellow,201712
+413,2018-01-04,Health and Beauty,25.57,1,Jan 18,olive,201801
+414,2018-01-05,Hardcover,15.9,1,Jan 18,lime,201801
+415,2018-01-05,Paperback,46.67,1,Jan 18,blue,201801
+416,2018-01-10,Health and Beauty,41.97,1,Jan 18,olive,201801
+417,2018-01-16,Kitchen,8.49,1,Jan 18,crimson,201801
+418,2018-01-16,Lawn & Patio,5.59,1,Jan 18,darkseagreen,201801
+419,2018-01-27,Toy,21.05,1,Jan 18,yellow,201801
+420,2018-02-04,Health and Beauty,26.59,1,Feb 18,olive,201802
+421,2018-02-05,Health and Beauty,87.31,1,Feb 18,olive,201802
+422,2018-02-12,0,16.9,1,Feb 18,lightpink,201802
+423,2018-02-12,Health and Beauty,15.49,1,Feb 18,olive,201802
+424,2018-02-12,Wireless Phone Accessory,7.35,1,Feb 18,darkgreen,201802
+425,2018-02-13,Toy,31.54,2,Feb 18,yellow,201802
+426,2018-02-14,Health and Beauty,26.07,2,Feb 18,olive,201802
+427,2018-02-14,Kitchen,16.59,1,Feb 18,crimson,201802
+428,2018-02-14,Toy,13.99,1,Feb 18,yellow,201802
+429,2018-02-18,Health and Beauty,30.59,1,Feb 18,olive,201802
+430,2018-02-18,Misc.,26.82,2,Feb 18,darkcyan,201802
+431,2018-03-04,Health and Beauty,26.59,1,Mar 18,olive,201803
+432,2018-03-16,Kitchen,14.95,1,Mar 18,crimson,201803
+433,2018-03-16,Misc.,12.2,1,Mar 18,darkcyan,201803
+434,2018-03-16,Personal Computers,86.58,1,Mar 18,lightskyblue,201803
+435,2018-03-19,Kitchen,41.97,1,Mar 18,crimson,201803
+436,2018-03-21,Paperback,7.56,1,Mar 18,blue,201803
+437,2018-03-22,Health and Beauty,42.0,1,Mar 18,olive,201803
+438,2018-04-02,Health and Beauty,22.38,1,Apr 18,olive,201804
+439,2018-04-09,Kitchen,19.98,1,Apr 18,crimson,201804
+440,2018-05-02,Health and Beauty,7.99,1,May 18,olive,201805
+441,2018-05-02,Kitchen,19.96,1,May 18,crimson,201805
+442,2018-05-04,Health and Beauty,39.75,3,May 18,olive,201805
+443,2018-05-04,Misc.,41.12,1,May 18,darkcyan,201805
+444,2018-05-12,Kitchen,22.9,1,May 18,crimson,201805
+445,2018-05-22,Health and Beauty,14.99,1,May 18,olive,201805
+446,2018-05-22,Misc.,15.99,1,May 18,darkcyan,201805
+447,2018-05-30,Health and Beauty,44.84,2,May 18,olive,201805
+448,2018-05-30,Misc.,39.9,1,May 18,darkcyan,201805
+449,2018-06-07,Electronics,6.97,1,Jun 18,gold,201806
+450,2018-06-07,Health and Beauty,120.1,4,Jun 18,olive,201806
+451,2018-06-07,Misc.,17.59,1,Jun 18,darkcyan,201806
+452,2018-06-14,0,21.96,2,Jun 18,lightpink,201806
+453,2018-06-14,Health and Beauty,13.35,1,Jun 18,olive,201806
+454,2018-06-22,0,9.98,1,Jun 18,lightpink,201806
+455,2018-06-22,Health and Beauty,10.75,1,Jun 18,olive,201806
+456,2018-06-26,Wireless Phone Accessory,9.99,1,Jun 18,darkgreen,201806
+457,2018-07-02,Kitchen,455.12,1,Jul 18,crimson,201807
+458,2018-07-05,0,60.480000000000004,2,Jul 18,lightpink,201807
+459,2018-07-05,Toy,191.7,2,Jul 18,yellow,201807
+460,2018-07-07,Health and Beauty,14.48,1,Jul 18,olive,201807
+461,2018-07-07,Tools & Home Improvement,5.38,1,Jul 18,tan,201807
+462,2018-07-09,0,61.97,2,Jul 18,lightpink,201807
+463,2018-07-09,Sports,5.99,1,Jul 18,hotpink,201807
+464,2018-07-12,Apparel,69.99,1,Jul 18,mediumspringgreen,201807
+465,2018-07-12,Electronics,8.99,1,Jul 18,gold,201807
+466,2018-07-16,0,14.99,1,Jul 18,lightpink,201807
+467,2018-07-17,0,50.879999999999995,2,Jul 18,lightpink,201807
+468,2018-07-17,Electronics,411.22999999999996,3,Jul 18,gold,201807
+469,2018-07-17,Health and Beauty,12.7,1,Jul 18,olive,201807
+470,2018-07-17,Luggage,25.9,1,Jul 18,darkolivegreen,201807
+471,2018-07-23,Misc.,16.99,1,Jul 18,darkcyan,201807
+472,2018-07-27,Grocery,7.58,1,Jul 18,midnightblue,201807
+473,2018-07-27,Health and Beauty,39.959999999999994,2,Jul 18,olive,201807
+474,2018-07-29,0,14.0,1,Jul 18,lightpink,201807
+475,2018-08-01,Health and Beauty,31.14,2,Aug 18,olive,201808
+476,2018-08-18,0,24.89,1,Aug 18,lightpink,201808
+477,2018-08-23,Baby Product,17.95,1,Aug 18,darkviolet,201808
+478,2018-08-23,Health and Beauty,17.54,2,Aug 18,olive,201808
+479,2018-09-28,Baby Product,16.95,1,Sep 18,darkviolet,201809
+480,2018-09-28,Health and Beauty,5.98,1,Sep 18,olive,201809
+481,2018-09-28,Home,12.99,1,Sep 18,maroon,201809
+482,2018-09-28,Kitchen,39.41,3,Sep 18,crimson,201809
+483,2018-10-10,0,12.99,1,Oct 18,lightpink,201810
+484,2018-10-10,Health and Beauty,19.99,1,Oct 18,olive,201810
+485,2018-10-10,Office Product,17.99,1,Oct 18,tomato,201810
+486,2018-10-10,Wireless Phone Accessory,10.89,1,Oct 18,darkgreen,201810
+487,2018-10-14,Health and Beauty,15.0,2,Oct 18,olive,201810
+488,2018-10-14,Misc.,25.67,3,Oct 18,darkcyan,201810
+489,2018-10-17,Apparel,335.34999999999997,13,Oct 18,mediumspringgreen,201810
+490,2018-10-17,Office Product,25.99,1,Oct 18,tomato,201810
+491,2018-10-19,Health and Beauty,60.67,3,Oct 18,olive,201810
+492,2018-10-19,Misc.,69.88,3,Oct 18,darkcyan,201810
+493,2018-10-22,0,26.99,1,Oct 18,lightpink,201810
+494,2018-10-22,Misc.,33.34,4,Oct 18,darkcyan,201810
+495,2018-10-22,Tools & Home Improvement,19.04,1,Oct 18,tan,201810
+496,2018-10-23,0,0.0,1,Oct 18,lightpink,201810
+497,2018-10-23,Apparel,29.95,1,Oct 18,mediumspringgreen,201810
+498,2018-10-23,Health and Beauty,29.95,1,Oct 18,olive,201810
+499,2018-10-23,Misc.,39.9,1,Oct 18,darkcyan,201810
+500,2018-10-23,Toy,9.99,2,Oct 18,yellow,201810
+501,2018-10-29,0,12.99,1,Oct 18,lightpink,201810
+502,2018-10-29,Health and Beauty,29.97,1,Oct 18,olive,201810
+503,2018-10-29,Kitchen,47.94,1,Oct 18,crimson,201810
+504,2018-10-29,Misc.,38.97,3,Oct 18,darkcyan,201810
+505,2018-11-01,Health and Beauty,8.59,1,Nov 18,olive,201811
+506,2018-11-01,Misc.,34.95,1,Nov 18,darkcyan,201811
+507,2018-11-01,Paperback,41.84,1,Nov 18,blue,201811
+508,2018-11-01,Sports,21.38,1,Nov 18,hotpink,201811
+509,2018-11-01,Toy,28.04,1,Nov 18,yellow,201811
+510,2018-11-08,Misc.,34.95,1,Nov 18,darkcyan,201811
+511,2018-11-08,Sports,93.49,2,Nov 18,hotpink,201811
+512,2018-11-08,Toy,28.0,1,Nov 18,yellow,201811
+513,2018-11-13,Sports,21.38,1,Nov 18,hotpink,201811
+514,2018-11-13,Toy,74.54,3,Nov 18,yellow,201811
+515,2018-11-18,0,9.79,1,Nov 18,lightpink,201811
+516,2018-11-18,Health and Beauty,17.92,2,Nov 18,olive,201811
+517,2018-11-18,Misc.,18.85,2,Nov 18,darkcyan,201811
+518,2018-11-18,Office Product,28.13,1,Nov 18,tomato,201811
+519,2018-11-25,0,32.77,1,Nov 18,lightpink,201811
+520,2018-11-25,Camera,59.99,1,Nov 18,aquamarine,201811
+521,2018-11-25,Electronics,148.81,4,Nov 18,gold,201811
+522,2018-11-25,Misc.,62.99,1,Nov 18,darkcyan,201811
+523,2018-11-26,Health and Beauty,27.99,1,Nov 18,olive,201811
+524,2018-11-26,Kitchen,18.99,1,Nov 18,crimson,201811
+525,2018-11-30,Electronics,37.51,2,Nov 18,gold,201811
+526,2018-11-30,Kitchen,56.26,3,Nov 18,crimson,201811
+527,2018-11-30,Misc.,8.33,1,Nov 18,darkcyan,201811
+528,2018-11-30,Office Product,21.67,1,Nov 18,tomato,201811
+529,2018-12-04,Home,15.99,1,Dec 18,maroon,201812
+530,2018-12-04,Kitchen,7.99,1,Dec 18,crimson,201812
+531,2018-12-04,Misc.,13.99,1,Dec 18,darkcyan,201812
+532,2018-12-04,Office Product,28.98,2,Dec 18,tomato,201812
+533,2018-12-13,0,65.54,1,Dec 18,lightpink,201812
+534,2018-12-13,Health and Beauty,8.59,1,Dec 18,olive,201812
+535,2018-12-13,Misc.,11.88,1,Dec 18,darkcyan,201812
+536,2018-12-13,Sports,64.94,1,Dec 18,hotpink,201812
+537,2018-12-13,Toy,13.29,1,Dec 18,yellow,201812
+538,2018-12-17,Electronics,8.99,1,Dec 18,gold,201812
+539,2018-12-17,Health and Beauty,12.96,2,Dec 18,olive,201812
+540,2018-12-17,Kitchen,30.74,3,Dec 18,crimson,201812
+541,2018-12-17,Office Product,12.98,2,Dec 18,tomato,201812
+542,2018-12-17,Toy,8.95,1,Dec 18,yellow,201812
+543,2018-12-27,0,6.99,1,Dec 18,lightpink,201812
+544,2018-12-27,Health and Beauty,18.85,2,Dec 18,olive,201812
+545,2018-12-27,Kitchen,13.98,2,Dec 18,crimson,201812
+546,2018-12-27,Office Product,26.71,2,Dec 18,tomato,201812
+547,2018-12-27,Sports,19.99,1,Dec 18,hotpink,201812
+548,2018-12-27,Toy,21.98,2,Dec 18,yellow,201812
+549,2019-01-04,Health and Beauty,40.400000000000006,3,Jan 19,olive,201901
+550,2019-01-04,Misc.,29.6,4,Jan 19,darkcyan,201901
+551,2019-01-14,Baby Product,17.31,1,Jan 19,darkviolet,201901
+552,2019-01-14,Health and Beauty,6.99,1,Jan 19,olive,201901
+553,2019-01-14,Home,14.99,1,Jan 19,maroon,201901
+554,2019-01-14,Kitchen,12.99,1,Jan 19,crimson,201901
+555,2019-01-14,Misc.,29.990000000000002,3,Jan 19,darkcyan,201901
+556,2019-01-14,Office Product,60.44,1,Jan 19,tomato,201901
+557,2019-01-17,Grocery,24.0,1,Jan 19,midnightblue,201901
+558,2019-01-17,Health and Beauty,114.03999999999999,5,Jan 19,olive,201901
+559,2019-01-17,Kitchen,7.69,1,Jan 19,crimson,201901
+560,2019-01-17,Office Product,24.34,2,Jan 19,tomato,201901
+561,2019-01-24,Health and Beauty,2.99,1,Jan 19,olive,201901
+562,2019-01-24,Misc.,39.82,3,Jan 19,darkcyan,201901
+563,2019-01-24,Office Product,3.99,1,Jan 19,tomato,201901
+564,2019-02-06,0,20.99,1,Feb 19,lightpink,201902
+565,2019-02-06,Apparel,100.72000000000001,6,Feb 19,mediumspringgreen,201902
+566,2019-02-06,Kitchen,21.740000000000002,2,Feb 19,crimson,201902
+567,2019-02-06,Misc.,13.99,1,Feb 19,darkcyan,201902
+568,2019-02-06,Office Product,5.98,1,Feb 19,tomato,201902
+569,2019-02-06,Personal Computers,41.99,1,Feb 19,lightskyblue,201902
+570,2019-02-06,Sports,5.4,1,Feb 19,hotpink,201902
+571,2019-02-08,0,31.28,3,Feb 19,lightpink,201902
+572,2019-02-08,Automotive,9.9,1,Feb 19,mediumvioletred,201902
+573,2019-02-08,Misc.,14.97,1,Feb 19,darkcyan,201902
+574,2019-02-10,Kitchen,22.43,2,Feb 19,crimson,201902
+575,2019-02-13,Health and Beauty,11.99,1,Feb 19,olive,201902
+576,2019-02-13,Misc.,20.43,1,Feb 19,darkcyan,201902
+577,2019-02-16,0,16.99,1,Feb 19,lightpink,201902
+578,2019-02-16,Apparel,19.99,1,Feb 19,mediumspringgreen,201902
+579,2019-02-16,Health and Beauty,12.940000000000001,2,Feb 19,olive,201902
+580,2019-02-18,Health and Beauty,18.95,1,Feb 19,olive,201902
+581,2019-02-18,Mass Market Paperback,8.61,1,Feb 19,slategrey,201902
+582,2019-02-18,Misc.,8.02,1,Feb 19,darkcyan,201902
+583,2019-02-18,Paperback,19.13,1,Feb 19,blue,201902
+584,2019-02-23,Video Game,7.13,1,Feb 19,aqua,201902
+585,2019-02-26,0,38.97,1,Feb 19,lightpink,201902
+586,2019-02-26,Health and Beauty,9.01,1,Feb 19,olive,201902
+587,2019-02-28,Electronics,20.56,1,Feb 19,gold,201902
+588,2019-02-28,Health and Beauty,7.82,1,Feb 19,olive,201902
+589,2019-02-28,Kitchen,23.44,1,Feb 19,crimson,201902
+590,2019-02-28,Misc.,7.99,1,Feb 19,darkcyan,201902
+591,2019-03-12,Misc.,27.24,1,Mar 19,darkcyan,201903
+592,2019-03-15,Kitchen,21.99,1,Mar 19,crimson,201903
+593,2019-03-15,Misc.,7.67,1,Mar 19,darkcyan,201903
+594,2019-03-19,Personal Computers,6.99,1,Mar 19,lightskyblue,201903
+595,2019-04-03,Health and Beauty,17.58,2,Apr 19,olive,201904
+596,2019-04-03,Misc.,18.0,2,Apr 19,darkcyan,201904
+597,2019-04-03,Personal Computers,278.61,1,Apr 19,lightskyblue,201904
+598,2019-04-11,Misc.,6.59,1,Apr 19,darkcyan,201904
+599,2019-04-20,0,3.59,1,Apr 19,lightpink,201904
+600,2019-04-20,Kitchen,24.6,2,Apr 19,crimson,201904
+601,2019-04-20,Misc.,26.75,3,Apr 19,darkcyan,201904
+602,2019-04-24,Health and Beauty,38.95,1,Apr 19,olive,201904
+603,2019-04-24,Kitchen,22.98,2,Apr 19,crimson,201904
+604,2019-04-25,Office Product,19.95,1,Apr 19,tomato,201904
+605,2019-04-28,0,28.99,1,Apr 19,lightpink,201904
+606,2019-04-28,Wireless Phone Accessory,9.59,1,Apr 19,darkgreen,201904
+607,2019-04-30,Home,12.99,1,Apr 19,maroon,201904
+608,2019-04-30,Kitchen,62.59,2,Apr 19,crimson,201904
+609,2019-04-30,Misc.,27.33,2,Apr 19,darkcyan,201904
+610,2019-04-30,Office Product,15.06,1,Apr 19,tomato,201904
+611,2019-05-04,Health and Beauty,124.46000000000001,5,May 19,olive,201905
+612,2019-05-07,0,383.82,7,May 19,lightpink,201905
+613,2019-05-07,Apparel,145.53,3,May 19,mediumspringgreen,201905
+614,2019-05-07,Hardcover,8.16,1,May 19,lime,201905
+615,2019-05-07,Health and Beauty,19.99,1,May 19,olive,201905
+616,2019-05-07,Misc.,23.96,1,May 19,darkcyan,201905
+617,2019-05-07,Office Product,5.04,1,May 19,tomato,201905
+618,2019-05-07,Toy,39.43,3,May 19,yellow,201905
+619,2019-05-08,Apparel,20.9,1,May 19,mediumspringgreen,201905
+620,2019-05-15,Office Product,21.4,1,May 19,tomato,201905
+621,2019-05-21,0,8.99,1,May 19,lightpink,201905
+622,2019-05-21,Electronics,104.99,1,May 19,gold,201905
+623,2019-05-21,Misc.,41.39,4,May 19,darkcyan,201905
+624,2019-06-17,0,2.66,1,Jun 19,lightpink,201906
+625,2019-06-17,Health and Beauty,6.99,1,Jun 19,olive,201906
+626,2019-06-17,Misc.,12.38,2,Jun 19,darkcyan,201906
+627,2019-06-17,Office Product,3.98,1,Jun 19,tomato,201906
+628,2019-06-20,Toy,13.7,1,Jun 19,yellow,201906
+629,2019-07-01,Electronics,41.22,2,Jul 19,gold,201907
+630,2019-07-01,Kitchen,27.63,3,Jul 19,crimson,201907
+631,2019-07-01,Misc.,3.62,1,Jul 19,darkcyan,201907
+632,2019-07-01,Office Product,22.95,1,Jul 19,tomato,201907
+633,2019-07-01,Sports,19.47,1,Jul 19,hotpink,201907
+634,2019-07-06,0,12.99,1,Jul 19,lightpink,201907
+635,2019-07-06,Electronics,8.99,1,Jul 19,gold,201907
+636,2019-07-06,Kitchen,25.97,2,Jul 19,crimson,201907
+637,2019-07-11,0,6.83,1,Jul 19,lightpink,201907
+638,2019-07-11,Health and Beauty,50.51,3,Jul 19,olive,201907
+639,2019-07-15,0,15.98,2,Jul 19,lightpink,201907
+640,2019-07-15,Grocery,23.94,1,Jul 19,midnightblue,201907
+641,2019-07-15,Kitchen,19.12,1,Jul 19,crimson,201907
+642,2019-07-15,Misc.,7.99,1,Jul 19,darkcyan,201907
+643,2019-07-16,Electronics,17.09,1,Jul 19,gold,201907
+644,2019-07-16,Misc.,57.01000000000001,7,Jul 19,darkcyan,201907
+645,2019-07-16,Tools & Home Improvement,14.99,1,Jul 19,tan,201907
+646,2019-07-26,0,34.21,4,Jul 19,lightpink,201907
+647,2019-07-26,Health and Beauty,25.910000000000004,2,Jul 19,olive,201907
+648,2019-07-26,Misc.,102.14,10,Jul 19,darkcyan,201907
+649,2019-07-28,Grocery,24.39,1,Jul 19,midnightblue,201907
+650,2019-07-28,Health and Beauty,18.99,1,Jul 19,olive,201907
+651,2019-07-28,Misc.,44.99,1,Jul 19,darkcyan,201907
+652,2019-07-30,0,24.86,3,Jul 19,lightpink,201907
+653,2019-07-30,Kitchen,39.75,4,Jul 19,crimson,201907
+654,2019-07-30,Misc.,10.4,1,Jul 19,darkcyan,201907
+655,2019-07-30,Unknown Binding,29.99,1,Jul 19,dimgrey,201907
+656,2019-07-31,Health and Beauty,263.16,16,Jul 19,olive,201907
+657,2019-07-31,Misc.,152.08,6,Jul 19,darkcyan,201907
+658,2019-08-07,Apparel,19.96,1,Aug 19,mediumspringgreen,201908
+659,2019-08-07,Health and Beauty,22.990000000000002,2,Aug 19,olive,201908
+660,2019-08-07,Toy,19.99,1,Aug 19,yellow,201908
+661,2019-08-08,0,0.0,1,Aug 19,lightpink,201908
+662,2019-08-12,0,105.61999999999999,7,Aug 19,lightpink,201908
+663,2019-08-12,Apparel,403.6500000000001,20,Aug 19,mediumspringgreen,201908
+664,2019-08-12,Health and Beauty,6.39,1,Aug 19,olive,201908
+665,2019-08-12,Misc.,25.98,2,Aug 19,darkcyan,201908
+666,2019-08-12,Toy,59.97,3,Aug 19,yellow,201908
+667,2019-08-13,0,48.99,1,Aug 19,lightpink,201908
+668,2019-08-13,Apparel,111.5,5,Aug 19,mediumspringgreen,201908
+669,2019-08-13,Grocery,17.98,2,Aug 19,midnightblue,201908
+670,2019-08-13,Health and Beauty,44.510000000000005,3,Aug 19,olive,201908
+671,2019-08-13,Jewelry,16.99,1,Aug 19,paleturquoise,201908
+672,2019-08-13,Kitchen,32.58,2,Aug 19,crimson,201908
+673,2019-08-13,Misc.,53.35,5,Aug 19,darkcyan,201908
+674,2019-08-19,Toy,13.14,1,Aug 19,yellow,201908
+675,2019-08-21,Misc.,17.59,1,Aug 19,darkcyan,201908
+676,2019-08-24,Apparel,28.88,1,Aug 19,mediumspringgreen,201908
+677,2019-08-24,Office Product,37.42,3,Aug 19,tomato,201908
+678,2019-08-26,0,74.99,5,Aug 19,lightpink,201908
+679,2019-08-27,0,8.99,1,Aug 19,lightpink,201908
+680,2019-08-27,Grocery,5.2,1,Aug 19,midnightblue,201908
+681,2019-08-27,Kitchen,30.76,3,Aug 19,crimson,201908
+682,2019-08-27,Misc.,8.69,1,Aug 19,darkcyan,201908
+683,2019-08-27,Paperback,5.87,1,Aug 19,blue,201908
+684,2019-08-28,Misc.,32.82,2,Aug 19,darkcyan,201908
+685,2019-08-28,Office Product,30.1,3,Aug 19,tomato,201908
+686,2019-09-02,0,6.29,1,Sep 19,lightpink,201909
+687,2019-09-02,Health and Beauty,8.99,1,Sep 19,olive,201909
+688,2019-09-02,Misc.,14.98,2,Sep 19,darkcyan,201909
+689,2019-09-02,Office Product,15.79,1,Sep 19,tomato,201909
+690,2019-09-04,Health and Beauty,125.02000000000001,5,Sep 19,olive,201909

@@ -1,0 +1,135 @@
+Total spent on Amazon since 2006 is $24830.42
+Average purchase amount on Amazon since 2006 is $46.33 and average item amount is $22.04
+The highest amount spent in a single purchase on Amazon since 2006 is $391.84 and the most expensive item is $455.12
+The lowest amount spent in a single purchase on Amazon since 2006 is $0.0 and the least expensive item is $0.0
+The most amount spent in one day on Amazon since 2006 is $635.15
+Total amount of refunds from Amazon since 2006 is $2911.54
+
+
+
+Purchases were made in these categories: ['Paperback' 'Hardcover' 'DVD' 'Mass Market Paperback' 'Video Game'
+ 'Kitchen' 'Baby Product' 'Misc.' 0 'Ecard Gift Certificate'
+ 'Personal Computers' 'Accessory' 'Toy' 'Tools & Home Improvement'
+ 'Health and Beauty' 'Unknown Binding' 'Apparel' 'Board book'
+ 'Electronics' 'Office Product' 'Shoes' 'Blu-ray' 'Grocery' 'Lawn & Patio'
+ 'Print Magazine' 'Calendar' 'Diary' 'Single Issue Magazine' 'Pamphlet'
+ 'Wireless Phone Accessory' 'Automotive' 'Jewelry' 'CD-ROM' 'Spiral-bound'
+ 'Sports' 'Card Book' 'Home' 'Luggage' 'Camera']
+
+
+
+The percent of total spent that was refunded is 11.723%
+
+Index(['Order Date', 'Order ID', 'Payment Instrument Type', 'Website',
+       'Purchase Order Number', 'Ordering Customer Email', 'Shipment Date',
+       'Shipping Address Name', 'Shipping Address Street 1',
+       'Shipping Address Street 2', 'Shipping Address City',
+       'Shipping Address State', 'Shipping Address Zip', 'Order Status',
+       'Carrier Name & Tracking Number', 'Subtotal', 'Shipping Charge',
+       'Tax Before Promotions', 'Total Promotions', 'Tax Charged',
+       'Total Charged', 'Buyer Name', 'Group Name'],
+      dtype='object') Index(['Order Date', 'Order ID', 'Title', 'Category', 'ASIN/ISBN',
+       'UNSPSC Code', 'Website', 'Release Date', 'Condition', 'Seller',
+       'Seller Credentials', 'List Price Per Unit', 'Purchase Price Per Unit',
+       'Quantity', 'Payment Instrument Type', 'Purchase Order Number',
+       'PO Line Number', 'Ordering Customer Email', 'Shipment Date',
+       'Shipping Address Name', 'Shipping Address Street 1',
+       'Shipping Address Street 2', 'Shipping Address City',
+       'Shipping Address State', 'Shipping Address Zip', 'Order Status',
+       'Carrier Name & Tracking Number', 'Item Subtotal', 'Item Subtotal Tax',
+       'Item Total', 'Tax Exemption Applied', 'Tax Exemption Type',
+       'Exemption Opt-Out', 'Buyer Name', 'Currency', 'Group Name'],
+      dtype='object') Index(['Order ID', 'Order Date', 'Title', 'Category', 'ASIN/ISBN', 'Website',
+       'Purchase Order Number', 'Refund Date', 'Refund Condition',
+       'Refund Amount', 'Refund Tax Amount', 'Tax Exemption Applied',
+       'Refund Reason', 'Quantity', 'Seller', 'Seller Credentials',
+       'Buyer Name', 'Group Name'],
+      dtype='object')
+
+
+AMAZON ORDERS COLUMNS
+Order Date                        datetime64[ns]
+Order ID                                  object
+Payment Instrument Type                   object
+Website                                   object
+Purchase Order Number                    float64
+Ordering Customer Email                   object
+Shipment Date                             object
+Shipping Address Name                     object
+Shipping Address Street 1                 object
+Shipping Address Street 2                 object
+Shipping Address City                     object
+Shipping Address State                    object
+Shipping Address Zip                      object
+Order Status                              object
+Carrier Name & Tracking Number            object
+Subtotal                                  object
+Shipping Charge                           object
+Tax Before Promotions                     object
+Total Promotions                          object
+Tax Charged                               object
+Total Charged                            float64
+Buyer Name                                object
+Group Name                               float64
+dtype: object 
+
+
+AMAZON ITEMS COLUMNS
+Order Date                        datetime64[ns]
+Order ID                                  object
+Title                                     object
+Category                                  object
+ASIN/ISBN                                 object
+UNSPSC Code                              float64
+Website                                   object
+Release Date                              object
+Condition                                 object
+Seller                                    object
+Seller Credentials                        object
+List Price Per Unit                       object
+Purchase Price Per Unit                   object
+Quantity                                   int64
+Payment Instrument Type                   object
+Purchase Order Number                    float64
+PO Line Number                           float64
+Ordering Customer Email                   object
+Shipment Date                             object
+Shipping Address Name                     object
+Shipping Address Street 1                 object
+Shipping Address Street 2                 object
+Shipping Address City                     object
+Shipping Address State                    object
+Shipping Address Zip                      object
+Order Status                              object
+Carrier Name & Tracking Number            object
+Item Subtotal                             object
+Item Subtotal Tax                         object
+Item Total                               float64
+Tax Exemption Applied                    float64
+Tax Exemption Type                       float64
+Exemption Opt-Out                        float64
+Buyer Name                                object
+Currency                                  object
+Group Name                               float64
+dtype: object 
+
+
+AMAZON RETURNS COLUMNS
+Order ID                         object
+Order Date               datetime64[ns]
+Title                            object
+Category                         object
+ASIN/ISBN                        object
+Website                          object
+Purchase Order Number           float64
+Refund Date              datetime64[ns]
+Refund Condition                 object
+Refund Amount                   float64
+Refund Tax Amount                object
+Tax Exemption Applied           float64
+Refund Reason                    object
+Quantity                          int64
+Seller                           object
+Seller Credentials              float64
+Buyer Name                       object
+Group Name                      float64
